@@ -87,7 +87,7 @@ enums.status = enum {
 	online = 'online',
 	idle = 'idle',
 	doNotDisturb = 'dnd',
-	invisible = 'invisible',
+	invisible = 'offline', -- i cant spell
 }
 
 enums.gameType = enum { -- NOTE: deprecated; use activityType
